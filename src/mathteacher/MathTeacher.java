@@ -11,9 +11,6 @@ import java.util.Scanner;
  * @author Esmeralda_Iyescas
  */
 
-
-
-
 public class MathTeacher {
     
     int n1;

@@ -6,7 +6,7 @@
 package mathteacher;
 import java.util.Scanner;
 
-/**
+/**   
  *
  * @author Esmeralda_Iyescas
  */
@@ -38,7 +38,7 @@ public class MathTeacher {
     return n1 / n2;
     }
     
-    
+    //
     /**
      * @param args the command line arguments
      */

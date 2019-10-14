@@ -12,6 +12,8 @@ import java.util.Scanner;
  */
 
 
+
+
 public class MathTeacher {
     
     int n1;
